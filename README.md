@@ -17,21 +17,6 @@ BoxArtSocial es una red social desarrollada por Álvaro Rodríguez y Jorge Hern�
 - **Frontend**: JavaScript (jQuery), HTML5, CSS3 (Bootstrap)
 - **Otros**: PHPMailer para el envío de correos electrónicos
 
-## Instalación
-
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/tu-usuario/BoxArtSocial.git
-    ```
-
-2. Configura tu servidor web (Apache, Nginx, etc.) para apuntar al directorio del proyecto.
-
-3. Importa la base de datos desde el archivo `database.sql` incluido en el proyecto.
-
-4. Configura las credenciales de la base de datos en el archivo `config.php`.
-
-5. Asegúrate de que las carpetas `assets/images/profile` y `assets/images/posts` tienen permisos de escritura.
-
 ## Uso
 
 1. Regístrate como un nuevo usuario o inicia sesión con una cuenta existente.
@@ -42,28 +27,16 @@ BoxArtSocial es una red social desarrollada por Álvaro Rodríguez y Jorge Hern�
 ## Capturas de Pantalla
 
 ### Página de Inicio de Sesión
-![Login Page](path/to/login_screenshot.png)
+![image](https://github.com/user-attachments/assets/e791bfe5-96b5-4489-a45a-ee5cd95758ad)
 
 ### Perfil de Usuario
-![User Profile](path/to/profile_screenshot.png)
+![image](https://github.com/user-attachments/assets/eca2f47b-3bee-44d1-a656-d2b7640dd1d4)
 
-### Panel de Administración
-![Admin Panel](path/to/admin_panel_screenshot.png)
+### Muro
+![image](https://github.com/user-attachments/assets/d8964bcd-a519-42b3-9331-187d7e57dca6)
 
-## Sobre Nosotros
+### Base de datos
+![image](https://github.com/user-attachments/assets/f3c67fcc-26cc-407c-a797-dd3ef3e478a6)
 
-Somos desarrolladores apasionados con experiencia en desarrollo web full-stack. Este proyecto es una muestra de nuestras habilidades y conocimientos en la creación de aplicaciones web robustas y escalables.
 
-- **Álvaro Rodríguez**: Desarrollador Full-Stack con experiencia en PHP, JavaScript y MySQL.
-- **Jorge Hernández**: Desarrollador Full-Stack especializado en frontend con HTML5, CSS3 y Bootstrap.
 
-## Contacto
-
-Para cualquier consulta o interés en colaborar, no dudes en contactarnos:
-
-- Álvaro Rodríguez: [alvaro@example.com](mailto:alvaro@example.com)
-- Jorge Hernández: [jorge@example.com](mailto:jorge@example.com)
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
